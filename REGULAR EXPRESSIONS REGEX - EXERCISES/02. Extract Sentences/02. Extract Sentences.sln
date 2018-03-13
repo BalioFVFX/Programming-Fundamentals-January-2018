@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extract Sentences", "02. Extract Sentences\02. Extract Sentences.csproj", "{EA5DDD19-DB26-44BD-9160-22F7D4331746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5DDD19-DB26-44BD-9160-22F7D4331746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5DDD19-DB26-44BD-9160-22F7D4331746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5DDD19-DB26-44BD-9160-22F7D4331746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5DDD19-DB26-44BD-9160-22F7D4331746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A757FF66-018C-472A-B35F-769E7A336523}
+	EndGlobalSection
+EndGlobal
